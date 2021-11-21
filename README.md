@@ -88,7 +88,7 @@ HelloWorld
 
 repo URL:
 ```
-https://github.com/yoricsv/001_2_CppHelloWorld_std17-O1.git
+https://github.com/yoricsv/001_2_CppHelloWorld_std17-O2.git
 ```
 
 ---
